@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 爬虫 参考：https://github.com/lining0806/PythonSpiderNotes/tree/master/NewsSpider
 import os
 import sys
 import urllib2

@@ -7,5 +7,4 @@
  6. play1--5 人民币转美元
  7. aqi1-2 空气质量运算，aqi2中用到生成csv，如果是2.x的python会中文乱码
  8. python小游戏 ./alien_invasion
-
- 
+ 9. GUI 有道翻译界面

@@ -8,3 +8,4 @@
  7. aqi1-2 空气质量运算，aqi2中用到生成csv，如果是2.x的python会中文乱码
  8. python小游戏 ./alien_invasion
  9. GUI 有道翻译界面
+ 10. 生命线：入口./life_line/lifeline_on_terminal.py
